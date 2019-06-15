@@ -32,10 +32,9 @@ How to run on Ubuntu terminal
 sudo qemu-system-i386 -soundhw pcspk -drive format=raw,file=disk_images/kavios.flp,index=0,if=floppy
 Following screenshots are from RBOS
 
-This is the homepage of the RBOS
 
-Shows hardware information
 Reference
+
 Mike OS — http://mikeos.sourceforge.net/#handbooks
 
 NASM — https://www.nasm.us/
